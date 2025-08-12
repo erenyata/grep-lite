@@ -1,5 +1,5 @@
 # grep-lite
-Lightweight grep alternative in C. Search for keywords in plain text files and optionally save matches to an output file.
+Lightweight grep alternative in C.
 Searches for a given string in a text file (`.txt`, `.log`, etc.) and optionally writes matches to an output file.
 
 ## Features
