@@ -37,7 +37,7 @@ Searches for a given string in a text file (`.txt`, `.log`, etc.) and optionally
 
 ## Licence
 
-This project is licensed under the [MIT License](#).
+This project is licensed under the [MIT License](https://github.com/erenyata/grep-lite/blob/main/LICENSE).
 
 ## Notes
 
