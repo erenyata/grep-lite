@@ -1,0 +1,12 @@
+[2025-08-12 10:15:23] INFO    System started successfully.
+[2025-08-12 10:15:25] INFO    User 'admin' logged in.
+[2025-08-12 10:15:26] WARNING Disk space is running low on /dev/sda1.
+[2025-08-12 10:15:27] ERROR   Failed to open configuration file.
+[2025-08-12 10:15:29] INFO    Scheduled backup completed.
+[2025-08-12 10:15:31] INFO    User 'guest' logged in.
+[2025-08-12 10:15:35] ERROR   Unable to connect to database.
+[2025-08-12 10:15:40] WARNING High memory usage detected.
+[2025-08-12 10:15:45] INFO    System shutdown initiated.
+[2025-08-12 10:15:50] INFO    System restarted successfully.
+[2025-08-12 10:15:53] INFO    New user 'john' registered.
+[2025-08-12 10:15:55] ERROR   Network timeout while fetching data.
